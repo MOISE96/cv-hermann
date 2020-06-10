@@ -1,0 +1,120 @@
+/* en tete*/
+.t1{
+   color: #ffffff;
+
+height: 400px; font-family: Roboto;
+}
+
+.kini{
+  background-color: #008800;
+  color: #ffffff;
+  font-style: italic;
+  font-family: Roboto;
+
+
+}
+/* boutton*/
+.button{
+  background-color: #008800;
+  font-family: Roboto;
+}
+.im{
+
+  float:right;
+  margin-right: 600px;
+}
+.bloc{
+  background-color: WHITE;
+  height: 400px;
+}
+.bloc .bloc1{
+  position: relative;
+  width: 400px;
+  height: 300px;
+  background-color:#008800;
+  float: left;
+  margin:10px;
+  margin-top: 55px;
+  margin-left: 26px;
+  border-radius: 30px;
+  font-family:Roboto;
+}
+.bloc1 h2{
+  color: white;
+}
+.bloc {
+  color:#ffffff;
+  text-align: center;
+
+}
+.bloc1 p img{
+  border-radius: 50px;
+}
+.kini P img{
+  border-radius: 100px;
+  float: right;
+  margin-right: 500px;
+}
+.MM a{
+  display:inline-block ;
+  background-color:#ffffff;
+  color:#008800;
+  text-decoration: none;
+  border:10px solide #008800;
+  border-radius: 20px;
+  padding: 8px 40px;
+ float: right;
+ margin-right:650px;
+ margin-top: -50px
+}
+.MM a:hover{
+  color:#ffffff;
+  background-color:#008800;
+}
+.HH{
+  padding-left: 30px;
+  font-family: Roboto;
+}
+.HH1{
+  margin-bottom: 10px;
+}
+.HH22{
+  margin-top:4px;
+  width:100% ;
+  height: 12px;
+  background-color: #ddd;border-radius:12px;
+}
+.HH22{
+
+height: 12px;
+background:#008800;
+ border-radius: 12px;
+
+}
+.HH333{
+  width: 70%;
+}
+.HH333 span{
+  float: right;
+  margin-right: 60px;
+  line-height: 13px;
+  color: #008800;
+  font-size:12;
+
+}
+.NN a{
+  display:inline-block ;
+  background-color:#ffffff;
+  color:#008800;
+  text-decoration: none;
+  border:10px solide #008800;
+  border-radius: 20px;
+  padding: 8px 40px;
+ float: right;
+ margin-right:500px;
+ margin-top: -50px
+ }
+ .NN a:hover{
+   color:#ffffff;
+   background-color:#008800;
+ }
